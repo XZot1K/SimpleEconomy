@@ -1,4 +1,4 @@
-## The following was added to the `currency-settings` section in the `config.yml` of `DisplayShops`:
+### The following was added to the `currency-settings` section in the `config.yml` of `DisplayShops`:
 ```yaml
 currency-settings:
   SimpleEconomy:
