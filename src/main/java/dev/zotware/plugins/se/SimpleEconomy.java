@@ -1,0 +1,17 @@
+package dev.zotware.plugins.se;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public final class SimpleEconomy extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        // Plugin startup logic
+
+    }
+
+    @Override
+    public void onDisable() {
+        // Plugin shutdown logic
+    }
+}

@@ -1,0 +1,4 @@
+name: SimpleEconomy
+version: '${project.version}'
+main: dev.zotware.plugins.se.SimpleEconomy
+api-version: '1.20'
